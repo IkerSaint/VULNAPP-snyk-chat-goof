@@ -1,3 +1,6 @@
+# EPIC Application Security Team Note
+Hi! this is a Vulnerable Application audited by EPIC Application Security Team; vulnerabilities present in the application are documented in "AppSec - Vulnerabilities.csv" file; feel free to explore and play with it. If you have any questions, new vulnerabilities, or want to collaborate with this application, do not hesitate to contact us in #infosec-appsec-help-ext. Have Fun!
+
 # multiroom-chat-goof
 A purposely vulnerable, multiroom chat application with Java, Spring, WebSocket on the backend and 
 Vue, Vuex, Nuxt.js on the frontend.
